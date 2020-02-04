@@ -2,7 +2,7 @@
 A Docker compose template to spin up postgres db and hasura
 
 ### Installation
-Confirm and update the env variables with your preference.
+Confirm and update the env variables (ports,login) with your preference.
 
 Just run the following command below:
 
